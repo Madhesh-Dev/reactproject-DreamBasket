@@ -1,2 +1,2 @@
-# reactproject-DreamBasket
+# ReactProject-DreamBasket
 An E-Commerce site
